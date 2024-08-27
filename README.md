@@ -15,3 +15,5 @@ Welcome to the repository for my Web Technology assignment. Below are the detail
    ```bash
    git clone https://github.com/kanakOS01/WT-assignment.git
    ```
+
+2. Go to the required Project folder and run the the program.
